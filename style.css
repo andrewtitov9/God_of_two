@@ -32,5 +32,6 @@ a:hover {
 }
 
 section {
-	background-color: #ddbdff;
+	background-color: #ddbdff;\
+	border: 1px;
 }
